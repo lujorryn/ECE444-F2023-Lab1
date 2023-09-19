@@ -16,3 +16,9 @@ Replay example 2-1 and 2-2 of the textbook
     Screenshot of Activity 2-2 Hello,Jorryn!<br/>
     <img src="screenshots/Activity2-HelloJorryn.png" alt="Screenshot Activity 2"/><br/>
 </p>
+
+## Activity 3
+Add navbar and date time to index page
+<p>
+    <img src="screenshots/Activity3-DateTime.png" alt="Screenshot Activity 3"/>
+</p>
