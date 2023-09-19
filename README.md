@@ -8,3 +8,6 @@ Install virtual environment and flask on your local machine.
 <p>
     <img src="screenshots/Activity1-Installation.png" alt="Screenshot Activity 1"/>
 </p>
+
+## Activity 2
+Replay example 2-1 and 2-2 of the textbook
