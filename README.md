@@ -22,3 +22,16 @@ Add navbar and date time to index page
 <p>
     <img src="screenshots/Activity3-DateTime.png" alt="Screenshot Activity 3"/>
 </p>
+
+## Activity 4
+Implement form and add name and email fields
+<p>
+    Screenshot of Activity 4-1 Initial Program Startup<br/>
+    <img src="screenshots/Activity4-1-InitialRun.png" alt="Screenshot Activity 4-1"/><br/>
+    Screenshot of Activity 4-2 Enter first name and valid uoft email<br/>
+    <img src="screenshots/Activity4-2-UofTMail.png" alt="Screenshot Activity 4-2"/><br/>
+    Screenshot of Activity 4-3 Enter invalid email address<br/>
+    <img src="screenshots/Activity4-3-EmailError.png" alt="Screenshot Activity 4-3"/><br/>
+    Screenshot of Activity 4-4 Enter non-uoft email address<br/>
+    <img src="screenshots/Activity4-4-NonUofTMail.png" alt="Screenshot Activity 4-4"/><br/>
+</p>
