@@ -12,3 +12,10 @@ Docker Installation
 <p>
     <img src="screenshots-lab3/Activity2-dockerInstallation.png" alt="Screenshot Activity 2"/>
 </p>
+
+## Activity 3
+Getting things ready locally
+Change “Hello [your name]!” to “Hello [your name]! Welcome to Lab3 Docker!”
+<p>
+    <img src="screenshots-lab3/Activity3-helloDocker.png" alt="Screenshot Activity 3"/>
+</p>
