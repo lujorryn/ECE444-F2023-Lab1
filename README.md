@@ -19,3 +19,12 @@ Change “Hello [your name]!” to “Hello [your name]! Welcome to Lab3 Docker!
 <p>
     <img src="screenshots-lab3/Activity3-helloDocker.png" alt="Screenshot Activity 3"/>
 </p>
+
+## Activity 4
+Building and running the docker image locally
+<p>
+    Screenshot of the log message for the 3 commands used</br>
+    <img src="screenshots-lab3/Activity4-1-logs.png" alt="Screenshot Activity 4-1"/></br>
+    Screenshot of the running application via docker</br>
+    <img src="screenshots-lab3/Activity4-2-runningApp.png" alt="Screenshot Activity 4-2"/>
+</p>
